@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_labels_brand_galleries",
+  "info": {
+    "displayName": "items",
+    "icon": "arrowDown",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

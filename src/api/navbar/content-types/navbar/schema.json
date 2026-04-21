@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navbars",
+  "info": {
+    "singularName": "navbar",
+    "pluralName": "navbars",
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "list": {
+      "displayName": "Brand Gallery",
+      "type": "component",
+      "repeatable": true,
+      "component": "dropdwon.brand-gallery"
+    }
+  }
+}

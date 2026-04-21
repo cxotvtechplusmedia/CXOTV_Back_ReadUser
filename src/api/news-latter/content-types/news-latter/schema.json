@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "news_latters",
+  "info": {
+    "singularName": "news-latter",
+    "pluralName": "news-latters",
+    "displayName": "NewsLetter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FullName": {
+      "type": "string"
+    },
+    "CompanyName": {
+      "type": "string"
+    },
+    "Phone": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    }
+  }
+}

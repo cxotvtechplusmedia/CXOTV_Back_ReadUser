@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "costom_ads",
+  "info": {
+    "singularName": "single-costom-ads",
+    "pluralName": "costom-ads",
+    "displayName": "CostomAds",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

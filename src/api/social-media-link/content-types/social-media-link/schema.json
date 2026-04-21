@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "social_media_links",
+  "info": {
+    "singularName": "social-media-link",
+    "pluralName": "social-media-links",
+    "displayName": "Social Media Link",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "platformName": {
+      "type": "string"
+    },
+    "platformURL": {
+      "type": "string"
+    },
+    "showOnPopup": {
+      "type": "boolean"
+    },
+    "ctaMessage": {
+      "type": "string"
+    }
+  }
+}
