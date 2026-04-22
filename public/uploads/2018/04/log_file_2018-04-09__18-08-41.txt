@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Ratency Theme Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://cxotv.news
+Data file = C:\Users\SJ-VM\Documents\Websites\cxotv\cxotv-new/wp-content/themes/ratency-progression//demo/content.xml
+Widget file = C:\Users\SJ-VM\Documents\Websites\cxotv\cxotv-new/wp-content/themes/ratency-progression//demo/widgets.json
+Customizer file = C:\Users\SJ-VM\Documents\Websites\cxotv\cxotv-new/wp-content/themes/ratency-progression//demo/theme_option.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Custom HTML - No Title - Imported
+Search - Search - Imported
+Categories - No Title - Imported
+Recent Posts - No Title - Imported
+
+Post Widget Area Bottom : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
